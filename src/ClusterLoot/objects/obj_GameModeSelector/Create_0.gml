@@ -1,0 +1,1 @@
+initialize_mode_selector(0);

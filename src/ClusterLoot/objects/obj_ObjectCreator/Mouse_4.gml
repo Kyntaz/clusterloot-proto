@@ -1,0 +1,1 @@
+if (mode_is_build) take_pseudo_object();

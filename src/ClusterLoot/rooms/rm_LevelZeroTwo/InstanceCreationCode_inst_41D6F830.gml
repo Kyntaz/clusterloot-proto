@@ -1,0 +1,1 @@
+color_number = 0;

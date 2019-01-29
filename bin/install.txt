@@ -1,0 +1,5 @@
+ClusterLoot Prototype is built for Windows.
+To run the game:
+1. Make sure both data.win and ClusterLoot.exe are present on the same folder.
+2. Run ClusterLoot.exe.
+3. Enjoy.

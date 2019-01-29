@@ -1,0 +1,1 @@
+if (mode_is_build && keyboard_check(vk_alt)) create_game_object(mouse_x, mouse_y, current_object);

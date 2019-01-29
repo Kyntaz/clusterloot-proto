@@ -1,0 +1,1 @@
+txt = "This is a Demo to test game mechanics for the game ClusterLoot, it is not a full game."

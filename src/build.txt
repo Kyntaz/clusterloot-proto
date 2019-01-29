@@ -1,0 +1,8 @@
+The source code for this project is a Game Maker Studio 2 project made on version v2.2.0.343.
+
+To build the project:
+1. Open the project with Game Maker Studio 2 (ClusterLoot.yyp).
+2. To test the project press F5.
+3. To build the project press Ctrl+F8.
+
+A built version of the game can be found on the /bin folder.

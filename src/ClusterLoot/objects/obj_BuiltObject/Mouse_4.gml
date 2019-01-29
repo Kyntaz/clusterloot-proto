@@ -1,0 +1,1 @@
+if (mode_is_build && instance_number(obj_PseudoObject) == 0) turn_to_pseudo_object();
